@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{62200617-9500-4CC6-B139-854306B4A085}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="App01_ConsultarCEP/MainPage.xaml" Line="7" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.App01__ConsultarCEP.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.App01__ConsultarCEP FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.App01__ConsultarCEP.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B2920C62-03C7-493B-94A1-0D5C104CCC5D" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
