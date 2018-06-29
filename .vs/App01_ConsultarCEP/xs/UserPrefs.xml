@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{62200617-9500-4CC6-B139-854306B4A085}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="App01_ConsultarCEP/MainPage.xaml.cs">
     <Files>
-      <File FileName="App01_ConsultarCEP/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="App01_ConsultarCEP/Servico/Modelo/Endereco.cs" Line="5" Column="12" />
+      <File FileName="App01_ConsultarCEP/Servico/ViaCEPServico.cs" Line="17" Column="41" />
+      <File FileName="App01_ConsultarCEP/MainPage.xaml.cs" Line="44" Column="67" />
+      <File FileName="App01_ConsultarCEP.iOS/Main.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.App01__ConsultarCEP.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" FirstBuild="True" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.App01__ConsultarCEP FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.App01__ConsultarCEP HideGettingStarted="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.App01__ConsultarCEP.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B2920C62-03C7-493B-94A1-0D5C104CCC5D" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.App01__ConsultarCEP.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1CE13FE0-9831-494C-AC47-4FF8FEEB009E" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

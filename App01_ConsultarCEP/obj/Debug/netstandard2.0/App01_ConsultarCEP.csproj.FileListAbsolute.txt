@@ -1,0 +1,9 @@
+/Users/lucianogusso/GitHub/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.csprojResolveAssemblyReference.cache
+/Users/lucianogusso/GitHub/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.csproj.CoreCompileInputs.cache
+/Users/lucianogusso/GitHub/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.AssemblyInfoInputs.cache
+/Users/lucianogusso/GitHub/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.AssemblyInfo.cs
+/Users/lucianogusso/GitHub/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.dll
+/Users/lucianogusso/GitHub/App01_ConsultarCEP/App01_ConsultarCEP/obj/Debug/netstandard2.0/App01_ConsultarCEP.pdb
+/Users/lucianogusso/GitHub/App01_ConsultarCEP/App01_ConsultarCEP/bin/Debug/netstandard2.0/App01_ConsultarCEP.deps.json
+/Users/lucianogusso/GitHub/App01_ConsultarCEP/App01_ConsultarCEP/bin/Debug/netstandard2.0/App01_ConsultarCEP.dll
+/Users/lucianogusso/GitHub/App01_ConsultarCEP/App01_ConsultarCEP/bin/Debug/netstandard2.0/App01_ConsultarCEP.pdb

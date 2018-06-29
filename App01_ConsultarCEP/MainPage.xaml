@@ -1,7 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:App01_ConsultarCEP" x:Class="App01_ConsultarCEP.MainPage">
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:App01_ConsultarCEP" 
+             x:Class="App01_ConsultarCEP.MainPage">
+    <StackLayout BackgroundColor="Yellow" Padding="30" Spacing="30">
+        <Image Source="logo_correios.png" x:Name="LOGO"/>
+        <Entry Placeholder="Digite o cep" PlaceholderColor="Yellow" BackgroundColor="White" x:Name="CEP"/>
+        <Button Text="BUSCAR CEP" TextColor="White" BackgroundColor="Blue" x:Name="BOTAO"/>
+        <Label Text=" " x:Name="RESULTADO"/>
     </StackLayout>
 </ContentPage>
